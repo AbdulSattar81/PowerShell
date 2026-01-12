@@ -1,1 +1,10 @@
 # Objects
+reaching in power shell is derived from objects. 
+
+# Types
+1.Int
+2.Long 
+3.Boolean
+3.Array
+4.Enum = is used to store the days like Monday to Sunday
+5.
