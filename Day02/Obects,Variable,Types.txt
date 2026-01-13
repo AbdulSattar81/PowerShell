@@ -16,4 +16,7 @@ For example: variable_name.GetType().BaseType()
 Pipeline (|) is considered as a valve in the pipeline.
 It gives the output of the previous command as the input of the next command
 
+OPERATORS:
+Where
+group
  
