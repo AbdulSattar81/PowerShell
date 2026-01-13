@@ -1,5 +1,6 @@
 # Objects
-reaching in power shell is derived from objects. 
+Everything in PowerShell is derived from objects. 
+For example: variable_name.GetType().BaseType()
 
 # Types
 1.Int = int32 =-214 to +214 numbers
@@ -9,3 +10,6 @@ reaching in power shell is derived from objects.
 4.ENUM = is used to store the days like Monday to Sunday
 5.String = Text
 6.DATETIME = Date
+
+
+# 
