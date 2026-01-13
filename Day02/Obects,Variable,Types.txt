@@ -18,5 +18,5 @@ It gives the output of the previous command as the input of the next command
 
 OPERATORS:
 Where
-group
- 
+Group
+Measure
