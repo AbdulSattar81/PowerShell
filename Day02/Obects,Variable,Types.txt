@@ -2,7 +2,7 @@
 Everything in PowerShell is derived from objects. 
 For example: variable_name.GetType().BaseType()
 
-# Types
+# Common Types
 1.Int = int32 =-214 to +214 numbers
 2.Long = long integer value
 3.Boolean = True/False = 1/0
@@ -12,4 +12,8 @@ For example: variable_name.GetType().BaseType()
 6.DATETIME = Date
 
 
-# 
+# Pipeline 
+Pipeline (|) is considered as a valve in the pipeline.
+It gives the output of the previous command as the input of the next command
+
+ 
